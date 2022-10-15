@@ -1,0 +1,9 @@
+name=Playwrite
+author=Tom Granger
+description=Experimental word processor for Playdate with keyboard adapter.
+bundleID=com.t0m.playwrite
+version=1.0
+buildNumber=1
+imagePath=images/card.png
+launchSoundPath=
+contentWarning=Keyboard input is impossible on Playdate. Or is it ?
