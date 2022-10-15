@@ -2,7 +2,7 @@
 
 <img src="source/images/card.png">
 
-Experimental word processor for Playdate. Requires a dedicated keyboard adapter, see [playwrite-dock](https://www.github.com/t0mg/playwrite-dock).
+Experimental word processor for [Playdate](https://play.date). Requires a dedicated keyboard adapter, see [playwrite-dock](https://www.github.com/t0mg/playwrite-dock).
 
 **Overview thread with demo videos: https://twitter.com/t0m_fr/status/1576949261849149440**
 
